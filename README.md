@@ -20,5 +20,5 @@ I'm learning and building skills in:
 - Resume download link
 - Contact details
 
-## 📁 Project Structure
+
 
